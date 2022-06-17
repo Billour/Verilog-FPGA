@@ -12,6 +12,6 @@ Verilog FPGA tutorial
 8. 邏輯訊號產生器
 9. 數位邏輯達成硬體加速
 10. GPU 是用面積達成硬體加速
-11. FPGA 是用同一個上升時序，同時間處理很多指令，來達成硬體加速。
+11. FPGA 是用同一個上升時序，同時間處理很多指令(並行處理)，來達成硬體加速。
 12. C HLS verilog。C-to-Verilog.com: High-Level Synthesis Using LLVM
 13. 
