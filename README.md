@@ -15,3 +15,24 @@ Verilog FPGA tutorial
 11. FPGA 是用同一個上升時序，同時間處理很多指令(並行處理)，來達成硬體加速。
 12. C HLS verilog。C-to-Verilog.com: High-Level Synthesis Using LLVM
 13. 
+
+
+重點觀念:
+FPGA 是並行處理指令的，Example 指令1跟指令2是同時執行。
+1. Procedural Assignments(cont' d)
+  Race condition
+    -When the final result of simulating two (or more)
+    concurrent processes depends on their order of execution
+ Example:
+   always @(posedge clock)
+       b = a;
+   always @(posedge clock)
+       a = b;
+ Solution:
+    always @(posedge clock)
+       b <= a;
+    always @(posedge clock)
+       a <= b;
+   重點在於 <= (要使用 < 符號，才不會 Race condition)
+
+出自 9.2.2 The nonblocking procedural assignment - verilog-std-1364-2005.pdf
