@@ -36,3 +36,8 @@ FPGA 是並行處理指令的，Example 指令1跟指令2是同時執行。
    重點在於 <= (要使用 < 符號，才不會 Race condition)
 
 出自 9.2.2 The nonblocking procedural assignment - verilog-std-1364-2005.pdf
+
+
+--補充教學
+  1.數位邏輯
+  https://ocw.nthu.edu.tw/ocw/index.php?page=course_news_content&cid=230&id=1023
