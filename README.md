@@ -46,7 +46,6 @@ FPGA 是並行處理指令的，Example 指令1跟指令2是同時執行。
   範例：  
   
 module 模組名稱( In1, In2, Out1, Out2, InOut1 );  
-  
     input in1, in2;  
     output Out1, Out2;  
     inout InOut1;  
@@ -66,7 +65,6 @@ module 模組名稱( In1, In2, Out1, Out2, InOut1 );
     allways @(*) begin  
         Out2 = In1 & In2;  
     end  
-  
 endmodule  
   
 --補充教學  
