@@ -77,6 +77,8 @@ Parent organization: Advanced Micro Devices
     
   [petalinux 教學](https://ys-hayashi.me/2021/08/xilinx-petalinux-01/)  
     
+-----------    
+  
 --補充教學  
   1.數位邏輯  
   https://ocw.nthu.edu.tw/ocw/index.php?page=course_news_content&cid=230&id=1023  
