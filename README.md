@@ -79,7 +79,7 @@ Parent organization: Advanced Micro Devices
     
 -----------    
     
-    What does MPSoC stand for?  
+  What does MPSoC stand for?  
 multiprocessor system on a chip  
 A multiprocessor system on a chip ( MPSoC , /ˌɛmˌpiːˈsɒk/ em-pee-SOCK or /ˌɛmˌpiːˌɛsˌoʊˈsiː/ em-PEE-ess-oh-SEE) is a system on a chip (SoC) which includes multiple microprocessors. As such, it is a multi-core system on a chip.  
   
