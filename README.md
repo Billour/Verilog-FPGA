@@ -13,7 +13,7 @@ Verilog FPGA tutorial
 9. 數位邏輯達成硬體加速
 10. FPGA 是用數位邏輯閘面積達成硬體加速
 11. FPGA 是用同一個上升時序，同時間處理很多指令(並行處理)，來達成硬體加速。
-12. C HLS verilog。C-to-Verilog.com: High-Level Synthesis Using LLVM
+12. C HLS verilog。C-to-Verilog.com: High-Level Synthesis Using LLVM，但是還是要用 Verilog 的觀念下去寫程式。
 13. 
   
 Verilog 最重要的部分，負責描述模組的電路架構與功能  
