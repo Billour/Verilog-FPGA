@@ -78,7 +78,12 @@ Parent organization: Advanced Micro Devices
   [petalinux 教學](https://ys-hayashi.me/2021/08/xilinx-petalinux-01/)  
     
 -----------    
+    
+    What does MPSoC stand for?  
+multiprocessor system on a chip  
+A multiprocessor system on a chip ( MPSoC , /ˌɛmˌpiːˈsɒk/ em-pee-SOCK or /ˌɛmˌpiːˌɛsˌoʊˈsiː/ em-PEE-ess-oh-SEE) is a system on a chip (SoC) which includes multiple microprocessors. As such, it is a multi-core system on a chip.  
   
+    
 --補充教學  
   1.數位邏輯  
   https://ocw.nthu.edu.tw/ocw/index.php?page=course_news_content&cid=230&id=1023  
