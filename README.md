@@ -22,6 +22,7 @@ Verilog 最重要的部分，負責描述模組的電路架構與功能
 資料流層次（Dataflow Level）  
 邏輯閘層次（Gate Level）  
 電晶體層次（Switch Level）  
+  
 ------------
 重點觀念:
 FPGA 是並行處理指令的，Example 指令1跟指令2是同時執行。  
