@@ -67,6 +67,10 @@ module 模組名稱( In1, In2, Out1, Out2, InOut1 );
     end  
 endmodule  
   
+  Open Code  
+  https://opencores.org/  
+  
+  
 --補充教學  
   1.數位邏輯  
   https://ocw.nthu.edu.tw/ocw/index.php?page=course_news_content&cid=230&id=1023
