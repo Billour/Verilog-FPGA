@@ -8,7 +8,7 @@ Verilog FPGA tutorial
 4. 序向邏輯電路 (Sequential Logic Circuit)
 5. 數位電路的「導線」wire
 6. Verilog 可以設定 波形、單位、精度、強度(strength)
-7. 示波器
+7. 示波器，Verilog 是否在上升波型、或下降波型觸發程式碼
 8. 邏輯訊號產生器
 9. 數位邏輯達成硬體加速
 10. FPGA 是用數位邏輯閘面積達成硬體加速
