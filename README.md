@@ -47,25 +47,25 @@ FPGA 是並行處理指令的，Example 指令1跟指令2是同時執行。
   範例：  
   
 module 模組名稱( In1, In2, Out1, Out2, InOut1 );  
-    input in1, in2;  
-    output Out1, Out2;  
-    inout InOut1;  
+     input in1, in2;  
+     output Out1, Out2;  
+     inout InOut1;  
   
-    wire In1, In2, Out1;  
-    wire InOut1;  
-    reg Out2;  
+     wire In1, In2, Out1;  
+     wire InOut1;  
+     reg Out2;  
   
-    // 以下為三種層級分別描述 In1 與 In2 and 做 and 運算的方法  
-    // 邏輯閘層次( Gate Level )  
-    and and1( Out1, In1, In2 );  
+     // 以下為三種層級分別描述 In1 與 In2 and 做 and 運算的方法  
+     // 邏輯閘層次( Gate Level )  
+     and and1( Out1, In1, In2 );  
   
-    // 資料流層次( Dataflow Level )  
-    assign Out1 = In1 & In2;  
+     // 資料流層次( Dataflow Level )  
+     assign Out1 = In1 & In2;  
   
-    // 行為層次( Behavior Level )  
-    allways @(*) begin  
-        Out2 = In1 & In2;  
-    end  
+     // 行為層次( Behavior Level )  
+     allways @(*) begin  
+         Out2 = In1 & In2;  
+     end  
 endmodule  
   
   Open Code  
