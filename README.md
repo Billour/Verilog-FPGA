@@ -73,5 +73,5 @@ endmodule
   
 --補充教學  
   1.數位邏輯  
-  https://ocw.nthu.edu.tw/ocw/index.php?page=course_news_content&cid=230&id=1023
+  https://ocw.nthu.edu.tw/ocw/index.php?page=course_news_content&cid=230&id=1023  
   2. [溤天懋 lesson2 筆記](https://numerous-earl-9fa.notion.site/Xilinx-Lesson-2-64dd21013e2e4b968c354b9eea8f7229)
