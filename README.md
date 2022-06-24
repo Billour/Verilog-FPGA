@@ -68,10 +68,13 @@ module 模組名稱( In1, In2, Out1, Out2, InOut1 );
 endmodule  
   
   Open Code  
-  https://opencores.org/    
+  https://opencores.org/  
+  
   petalinux  
   PetaLinux tools enable developers to synchronize the software platform with the hardware design as it gains new features and devices. PetaLinux tools will automatically generate a custom, Linux Board Support Package including device drivers for Xilinx embedded processing IP cores, kernel and boot loader configurations.
 Parent organization: Advanced Micro Devices  
+    
+  [petalinux 教學](https://ys-hayashi.me/2021/08/xilinx-petalinux-01/)  
     
 --補充教學  
   1.數位邏輯  
