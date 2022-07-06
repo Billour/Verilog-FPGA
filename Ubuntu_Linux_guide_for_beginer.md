@@ -18,4 +18,14 @@ Ubuntu Linux
 7.
 8.
 9.
-10. Linux 故障排除
+10. Linux 故障排除  
+
+
+Commands  
+1. mkdir  
+2. cd  
+3. wget  
+4. sudo  
+5. ./  
+6. Vistual studio code  
+7. 
