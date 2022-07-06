@@ -89,9 +89,13 @@ A multiprocessor system on a chip ( MPSoC , /ˌɛmˌpiːˈsɒk/ em-pee-SOCK or /
 
 FPGA  openCV xfOpenCV 圖像處理實戰  
 必要知識要熟  
-1. Linux  
+0. Verilog  
+1. Linux Ubuntu 18.04.05(推薦)
 2. Xillinx : HLS Standalone, Vitis vision library    
-
+3. openCV  
+4. C++  
+  
 影像處理使用 FPGA 速度很快，適合即時影像運算。Vitis 已經套裝好許多硬體加速，要使用各種硬體套件的使用。
 
+Vitis -> +petaLinux (建議安裝在 Windows)=> Vitis HLS (建議安裝在 Linux )  
 
