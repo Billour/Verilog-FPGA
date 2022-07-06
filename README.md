@@ -84,3 +84,14 @@ A multiprocessor system on a chip ( MPSoC , /ˌɛmˌpiːˈsɒk/ em-pee-SOCK or /
   1.數位邏輯  
   https://ocw.nthu.edu.tw/ocw/index.php?page=course_news_content&cid=230&id=1023  
   2. [溤天懋 lesson2 筆記](https://numerous-earl-9fa.notion.site/Xilinx-Lesson-2-64dd21013e2e4b968c354b9eea8f7229)
+    
+--------------
+
+FPGA  openCV xfOpenCV 圖像處理實戰  
+必要知識要熟  
+1. Linux  
+2. Xillinx : HLS Standalone, Vitis vision library    
+
+影像處理使用 FPGA 速度很快，適合即時影像運算。Vitis 已經套裝好許多硬體加速，要使用各種硬體套件的使用。
+
+
