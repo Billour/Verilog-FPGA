@@ -11,7 +11,7 @@ Ubuntu Linux
   目錄  
 1. 安裝
 2. Linux 目錄;檔案;帳號
-3. Linux commands
+3. Linux commands <Tab>鍵 linux 會自動補上檔案路徑
 4. Linux 程式執行
 5. 
 6.
