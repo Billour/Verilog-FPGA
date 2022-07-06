@@ -27,7 +27,7 @@ Commands
 3. wget  
 4. sudo  
 5. ./  
-6. 
+6. ls
 7. 
 
 
