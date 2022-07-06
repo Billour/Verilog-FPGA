@@ -10,7 +10,7 @@ Ubuntu Linux
   
   目錄  
 1. 安裝
-2. Linux 目錄
+2. Linux 目錄;檔案;帳號
 3. Linux commands
 4. Linux 程式執行
 5. 
