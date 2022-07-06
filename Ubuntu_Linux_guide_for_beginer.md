@@ -4,7 +4,7 @@ Ubuntu Linux
 給新手的快速十堂知識，讓你可以在一個星期內上手。  
 
 前言:  
-基本上是我的癈話，可以跳過。  
+基本上前言可以跳過。  
 我以前是寫 Windows Asp.net C#，我是出完社會後才自已學習 Ubuntu Linux 比較知道各位新手的痛苦點。  
 這個單元是我的經驗分享，目的是希望各位能快速使用 Ubuntu  
   
@@ -27,5 +27,11 @@ Commands
 3. wget  
 4. sudo  
 5. ./  
-6. Vistual studio code  
+6. 
 7. 
+
+
+軟體:
+1. Notpad++
+2. Vistual studio code  
+3. 
