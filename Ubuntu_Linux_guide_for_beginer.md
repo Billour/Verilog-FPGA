@@ -28,7 +28,13 @@ Commands
 4. sudo  
 5. ./  
 6. ls
-7. 
+7. touch  
+8. apt-get update  
+9. history  
+10. clear   <control> + l  
+11. gcc -o c1 c1.cpp  
+12. 
+  
 
 
 軟體:
