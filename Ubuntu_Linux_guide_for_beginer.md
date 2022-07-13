@@ -43,4 +43,10 @@ Commands
 軟體:
 1. Notpad++
 2. Vistual studio code  
-3. 
+3.   
+  
+  
+快速鍵:  
+1. <Alt> + <Tab> 在 Ubuntu 內換視窗  
+2. <ctrl > + <alt> + t  開啟 terminal  
+3.  
