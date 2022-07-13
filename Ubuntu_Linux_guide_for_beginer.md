@@ -28,7 +28,7 @@ Ubuntu Linux
 4. sudo  
 5. ./  
 6. ls
-7. touch  
+7. touch  Let’s learn how to make some files. A very simple way is to use the touch command. Touch allows you to the create new empty files.  
 8. apt-get update  
 9. history  
 10. clear   <control> + l  
@@ -36,7 +36,11 @@ Ubuntu Linux
 12. cp  
 13. rm -f *        刪除當前目錄下的檔案  
 14. find  
-15. 
+15. tree  
+16.   
+17.   
+18.    
+19. 
   
 
 
