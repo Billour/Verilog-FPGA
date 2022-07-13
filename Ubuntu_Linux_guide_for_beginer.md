@@ -53,5 +53,5 @@ Commands
   
   
 Linux 教學:  
-  1. 漂亮的LINUX 教學網站 https://linuxjourney.com/?fbclid=IwAR2lLTtFWrZYowy6OzY-xyKTkI2rGhM3VSyvUHhvqzx2vtdx8yxiB5oG9Rs  
+  1. [漂亮的LINUX 教學網站](https://linuxjourney.com/?fbclid=IwAR2lLTtFWrZYowy6OzY-xyKTkI2rGhM3VSyvUHhvqzx2vtdx8yxiB5oG9Rs)  
   2.
