@@ -51,7 +51,7 @@ Ubuntu Linux
 3. PuTTY 簡易安裝教學指令
   
   
-* 快速鍵:  
+##H3 快速鍵:  
 1. <Alt> + <Tab> 在 Ubuntu 內換視窗  
 2. <ctrl > + <alt> + t  開啟 terminal  
 3.  
