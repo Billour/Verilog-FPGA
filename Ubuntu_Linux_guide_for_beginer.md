@@ -33,7 +33,10 @@ Commands
 9. history  
 10. clear   <control> + l  
 11. gcc -o c1 c1.cpp  
-12. 
+12. cp  
+13. rm -f *        刪除當前目錄下的檔案  
+14. find  
+15. 
   
 
 
