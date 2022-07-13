@@ -37,10 +37,11 @@ Ubuntu Linux
 13. rm -f *        刪除當前目錄下的檔案  
 14. find  
 15. tree  
-16.   
-17.   
-18.    
-19. 
+16. mv    move  
+17. help  
+18. gunzip FileName.gz     
+19. man  
+20. 
   
 
 
